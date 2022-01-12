@@ -35,14 +35,14 @@
         <spring.boot.starter.version>2.6.2</spring.boot.starter.version>
         <rocketmq-spring-boot-starter-version>2.0.3</rocketmq-spring-boot-starter-version>
         <java.version>1.8</java.version>
-        <mysql-dirver-version>8.0.22</mysql-dirver-version>
+        <mysql-dirver-version>8.0.27</mysql-dirver-version>
         <zookeeper-version>3.5.9</zookeeper-version>
         <zkclinet-version>0.9</zkclinet-version>
         <lombok-version>1.18.12</lombok-version>
         <spring-boot-starter.version>2.5.6</spring-boot-starter.version>
         <spring-boot-starter-web.version>2.5.5</spring-boot-starter-web.version>
         <rocketmq-client.version>${rocketmq-common.version}</rocketmq-client.version>
-        <rocketmq-common.version>4.7.0</rocketmq-common.version>
+        <rocketmq-common.version>4.8.0</rocketmq-common.version>
     </properties>
 
     <dependencyManagement>
